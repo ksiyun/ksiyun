@@ -8,3 +8,4 @@ Undergraduate student at Yonsei University
 Underwood International College  
 - Major: Quantitative Risk Management (QRM)
 - Minor: Industrial Engineering
+- Expected Graduation: February 2028
