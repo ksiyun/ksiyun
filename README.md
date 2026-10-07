@@ -1,10 +1,10 @@
 # Siyun Kwon
 
-Undergraduate student in Quantitative Risk Management at Yonsei University.
+Undergraduate student at Yonsei University
 
 ## Education
 
-**Yonsei University, Underwood International College**
-
-- Majoring in Quantitative Risk Management (QRM)
-- Minoring in Industrial Engineering
+**Yonsei University**  
+Underwood International College  
+- Major: Quantitative Risk Management (QRM)
+- Minor: Industrial Engineering
